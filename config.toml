@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://liqiduan.github.io/home/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Liqiduan's Home"
+theme = "travelify"
+publicdir = "./"
+
+[params]
+  description = "Welcome to Liqiduan's home, here is the trace of my steps over the world."
