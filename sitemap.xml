@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://liqiduan.github.io/home/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://liqiduan.github.io/home/categories/</loc>
     <priority>0</priority>
   </url>
@@ -19,8 +24,17 @@
   </url>
   
   <url>
+    <loc>https://liqiduan.github.io/home/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://liqiduan.github.io/home/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liqiduan.github.io/home/post/travel1/</loc>
   </url>
   
 </urlset>
