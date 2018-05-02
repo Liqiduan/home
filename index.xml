@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liqiduan&#39;s Home</title>
+    <link>https://liqiduan.github.io/home/</link>
+    <description>Recent content on Liqiduan&#39;s Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 May 2018 16:07:10 +0000</lastBuildDate>
+    <atom:link href="https://liqiduan.github.io/home/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://liqiduan.github.io/home/welcome/</link>
+      <pubDate>Wed, 02 May 2018 16:07:10 +0000</pubDate>
+      
+      <guid>https://liqiduan.github.io/home/welcome/</guid>
+      <description> Welcome to my home </description>
+    </item>
+    
+  </channel>
+</rss>

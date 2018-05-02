@@ -2,7 +2,8 @@ baseURL = "https://liqiduan.github.io/home/"
 languageCode = "en-us"
 title = "Liqiduan's Home"
 theme = "travelify"
-publicdir = "./"
+publishDir = "./"
+hasCJKLanguage = true
 
 [params]
   description = "Welcome to Liqiduan's home, here is the trace of my steps over the world."
