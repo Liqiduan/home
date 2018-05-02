@@ -1,9 +1,37 @@
 baseURL = "https://liqiduan.github.io/home/"
 languageCode = "en-us"
 title = "Liqiduan's Home"
-theme = "travelify"
+theme = "grid-side"
 publishDir = "./"
 hasCJKLanguage = true
+SectionPagesMenu = "Main"
 
 [params]
   description = "Welcome to Liqiduan's home, here is the trace of my steps over the world."
+  author = "Liqiduan & Xuqing"
+  infinite_scroll = true
+
+[params.highlight]
+  style = "railscasts"
+
+[params.header]
+  name = "Liqiduan"
+  description = "Welcome to Liqiduan's home, here is the trace of my steps over the world."
+  email = "lee.nju@live.com"
+  
+[params.footer]
+  [[params.footer.list]]
+        icon_class = "github"
+        icon_link = "https://github.com/Liqiduan/home"
+
+[params.cells]
+    [[params.cells.list]]
+        name = "Post"
+        link = "/post/"
+        image = ""
+
+    [[params.cells.list]]
+	name = "Gallery"
+	link = "/gallery/"
+	image = "/img/cup.jpg"
+
