@@ -18,6 +18,7 @@ SectionPagesMenu = "Main"
   name = "Liqiduan"
   description = "Welcome to Liqiduan's home, here is the trace of my steps over the world."
   email = "lee.nju@live.com"
+  image = "/img/home.jpg"
   
 [params.footer]
   [[params.footer.list]]
@@ -26,12 +27,12 @@ SectionPagesMenu = "Main"
 
 [params.cells]
     [[params.cells.list]]
-        name = "Post"
+        name = "Travel"
         link = "/post/"
-        image = ""
+	image = "/img/travel.jpg"
 
     [[params.cells.list]]
-	name = "Gallery"
+	name = "Food"
 	link = "/gallery/"
-	image = "/img/cup.jpg"
+	image = "/img/food.jpg"
 
